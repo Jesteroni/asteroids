@@ -1,0 +1,10 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Lesson log files
+game_state.jsonl
+game_events.jsonl
